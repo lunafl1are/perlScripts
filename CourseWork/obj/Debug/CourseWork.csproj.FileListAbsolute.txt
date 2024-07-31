@@ -1,0 +1,11 @@
+E:\2 курс\CourseWork\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+E:\2 курс\CourseWork\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+E:\2 курс\CourseWork\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+E:\2 курс\CourseWork\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+E:\2 курс\CourseWork\CourseWork\CourseWork\obj\Debug\CourseWork.Edit.resources
+E:\2 курс\CourseWork\CourseWork\CourseWork\obj\Debug\CourseWork.Football_Championship.resources
+E:\2 курс\CourseWork\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+E:\2 курс\CourseWork\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+E:\2 курс\CourseWork\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+E:\2 курс\CourseWork\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+E:\2 курс\CourseWork\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
